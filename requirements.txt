@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas
+PyYAML
+tqdm
+tensorboard
+pytest
+flake8
